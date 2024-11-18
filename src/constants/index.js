@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Hamza proved me wrong.",
+      "I am beyond thrilled with the work delivered. Hamza went above and beyond my expectations, demonstrating both creativity and professionalism. The communication was seamless and they truly understood my vision, even from a brief and fragmented outline.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Hamza does.",
+      "Hamza made an amazing sales video in a very short time. The first draft was great and when I sent in my revision Ideas they came back perfect. I’ll be getting more videos made and recommend Hamza to others on my team. outstanding work. I can't wait to collaborate on our next project together!",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -188,7 +188,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Hamza optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Hamza did an amazing job on the video he created for me! The quality exceeded my expectations, and he understood exactly what I needed. The communication was smooth, and he delivered everything on time. Thank you, Hamza! I will definitely work with you again in the future!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -216,7 +216,7 @@ const projects = [
       // },
     ],
     image: Protonics,
-    source_code_link: "https://github.com/Ameer-Hamza-Malik",
+    source_code_link: "https://drive.google.com/file/d/1Q4j_q8b6bd3KuiCSBZE26oUPT_JWtAkQ/view?usp=drive_link",
   },
   {
     name: "FasterMe",
@@ -237,7 +237,7 @@ const projects = [
       // },
     ],
     image: jobit,
-    source_code_link: "https://github.com/Ameer-Hamza-Malik",
+    source_code_link: "https://drive.google.com/file/d/1WgMwJdPVvb_EHKKb9KzmnV-4UO7_5Ltw/view?usp=drive_link",
   },
   {
     name: "I-Speco's",
@@ -258,29 +258,9 @@ const projects = [
       // },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/Ameer-Hamza-Malik",
+    source_code_link: "https://drive.google.com/file/d/1KIifoodgxetHHZ3arJwJTbaMsCbwkUcm/view?usp=drive_link",
   },
-  {
-    name: "I-Speco's",
-    description:
-      "Ispeco's video management software is the reliable partner you need to keep your business safe. With our cutting-edge solutions..",
-    tags: [
-      // {
-      //   name: "nextjs",
-      //   color: "blue-text-gradient",
-      // },
-      // {
-      //   name: "supabase",
-      //   color: "green-text-gradient",
-      // },
-      // {
-      //   name: "css",
-      //   color: "pink-text-gradient",
-      // },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/Ameer-Hamza-Malik",
-  },
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects };

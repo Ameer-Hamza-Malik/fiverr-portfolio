@@ -1,7 +1,6 @@
 import React from "react";
 import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
-
 import { styles } from "../styles";
 import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
@@ -78,8 +77,7 @@ const Works = () => {
       <div className='w-full flex'>
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
-          className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
-        >
+          className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'>
          I’ve successfully created and delivered impactful video ads that resonate with diverse audiences. Each project has been an opportunity to merge creativity with strategy, ensuring that the videos not only captivate viewers but also deliver measurable results for the clients.<br/>
          By combining storytelling, design expertise, and a results-driven mindset, I ensure every video ad I create contributes to achieving the client’s goals. My work is a testament to my dedication to producing high-quality content that stands out in a crowded digital space.
 
@@ -95,4 +93,4 @@ const Works = () => {
   );
 };
 
-export default SectionWrapper(Works, "");
+export default SectionWrapper(Works, "work");
